@@ -7,7 +7,8 @@ I'm passionate about Domain-Driven Design and clean architecture.
 
 ### revion.js
 A TypeScript framework for CQRS (Command Query Responsibility Segregation) and Event Sourcing patterns.
-https://github.com/koyama0318/revion.js
+repo: https://github.com/koyama0318/revion.js
+docs: https://koyama0318.github.io/revion-docs/
 
 ## Github Stats
 
