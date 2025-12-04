@@ -12,13 +12,13 @@ docs: https://koyama0318.github.io/revion-docs/
 
 ## Github Stats
 
-<a href="https://github.com/abe-tk/github-readme-stats">
+<a href="https://github.com/koyama0318/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=koyama0318&theme=dark&show_icons=true&rank_icon=github">
     <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=koyama0318&show_icons=true&rank_icon=github">
   </picture>
 </a>
-<a href="https://github.com/abe-tk/convoychat">
+<a href="https://github.com/koyama0318/convoychat">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=koyama0318&theme=dark&layout=compact">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyama0318&layout=compact">
